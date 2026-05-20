@@ -44,3 +44,7 @@ project_folder/
 ├── runtime.txt
 ├── README.md
 └── save frames/
+
+
+streamlit
+https://edendetection-omnfdw5dyjbyproukpsanr.streamlit.app/
